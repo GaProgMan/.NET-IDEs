@@ -23,4 +23,4 @@ Assuming that you have a terminal open in the root of the repo:
 1. `yarn install`
 1. `grunt serve`
 
-A web browser should open, point at [localhost:5500](localhost:5500/), and the slide deck will be available to view.
+A web browser should open, point at [localhost:8000](http://localhost:8000/), and the slide deck will be available to view.
